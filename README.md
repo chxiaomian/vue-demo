@@ -1,5 +1,7 @@
 # vue-demo
 
+[![Build Status](https://travis-ci.org/chxiaomian/vue-demo.svg?branch=master)](https://travis-ci.org/chxiaomian/vue-demo)
+
 > A Vue.js project
 
 ## Build Setup
